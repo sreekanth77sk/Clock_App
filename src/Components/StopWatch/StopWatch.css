@@ -1,0 +1,17 @@
+.stop-watch-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.stop-watch{
+    font-size: 30px;
+}
+.button{
+    padding: 5px;
+    margin-left: 10px;
+    padding: 4px 15px;
+    background-color:rgb(55, 96, 96);
+    border: none;
+    border-radius: 7px;
+}

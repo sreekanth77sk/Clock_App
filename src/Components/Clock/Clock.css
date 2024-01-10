@@ -1,0 +1,13 @@
+.clock-container{
+    font-size: 30px;
+    background-color: rgb(55, 96, 96);
+    width: 70%;
+    height: 100px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.clock{
+    font-size: 30px;
+}
