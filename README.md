@@ -1,3 +1,18 @@
+# Clock App
+ ## Clock
+    Clock tab shows current time.
+ ## StopWatch
+    Stopwatch tab contains stopwatch
+ ## Set timer
+    Set timer tab is where user can enter minutes and seconds and set down the time.
+
+# TO RUN THIS APPLICATION RUN THE BELOW COMMANDS IN THE PROJECT FOLDER
+ $ npm i   (Installs Node Package Manager.)
+ $ npm start    (Runs the Application in the browser.)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
